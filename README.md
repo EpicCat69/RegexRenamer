@@ -48,8 +48,10 @@ python regex_renamer.py
 	•	Click “Rename All”
 	•	Click “Undo Last Rename” if needed
 
+---
 
-🧠 Tips
+## 🧠 Tips
+
 	•	You can use full regex with capture groups.
 	•	Undo stores original filenames in rename_undo_log.json.
 	•	It won’t rename files if:
@@ -57,16 +59,16 @@ python regex_renamer.py
 	•	The regex is invalid
 	•	Nothing matches the pattern
 
-⸻
+---
 
-🙋‍♂️ About Me
+## 🙋‍♂️ About Me
 
 Made by SOEP — I build small, useful tools and fun experiments.
 Check out my other projects at:
 👉 https://epiccat69.github.io
 
-⸻
+---
 
-🪪 License
+## 🪪 License
 
 MIT — free to use, remix, and share.
